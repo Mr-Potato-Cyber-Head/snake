@@ -15,3 +15,9 @@ Make sure you have Python 3.10+ and install dependencies:
 
 ```bash
 pip install pygame
+```
+
+Then run the main file:
+```bash
+python snake_game.py
+```
