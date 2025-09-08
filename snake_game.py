@@ -1788,9 +1788,9 @@ class SnakeGame(QMainWindow):
         # Enable automatic background filling
         mission_widget.setAutoFillBackground(True)
         
-        # Using raw string for the path
-        image_path = r"D:\Work\Personal\Programming\Game\Snake\asset\mission\mission 1\mission1_background.png"
-        
+        # Build path relative to this file so it works on any machine
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        image_path = os.path.join(current_dir, 'asset', 'mission', 'mission 1', 'mission1_background.png')
         pixmap = QPixmap(image_path)
         if pixmap.isNull():
             print("Failed to load image")
