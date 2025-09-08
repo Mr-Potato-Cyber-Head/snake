@@ -1,0 +1,103 @@
+Mission 2 – The Signal Below
+Design & Environment Notes
+
+STORY OVERVIEW
+After collecting the energy crystals on Xyra-9’s surface, Nova follows a strange underground vibration—a signal that repeats in a coded pulse.
+
+He descends into the planet’s crust through a cracked canyon wall, finding himself surrounded by ancient, pulsing stones and unstable red crystal formations.
+There’s a signal buried here, repeating... broken... waiting to be rebuilt.
+
+The environment is darker, heavier. Interference grows. Nova’s light dims at times, and static flickers across his vision.
+He must find the source of the signal and stabilize it before his system becomes too corrupted to continue.
+
+ENVIRONMENT SETTING
+Location: Subterranean crystal caverns beneath the surface of Xyra-9
+
+Mood: Ominous, mysterious, claustrophobic
+
+Theme Colours: Deep reds, purples, dark gray stone, corrupted glows
+
+Lighting: Dim, with flickering red crystal light and static pulses
+
+Sound: Low hum, distant signal beeps, crumbling rock
+
+VISUAL ELEMENTS
+Cave Walls: Cracked stone with glowing plasma veins (red-orange)
+
+Floor: Jagged paths with scattered debris, corrupted zones
+
+Corrupted Red Crystals (hazard): Drain Nova’s glow temporarily
+
+Signal Cores (objective): Pulsing orange-red nodes scattered through the cavern
+
+Traps:
+
+Static fields
+
+Collapsing tiles
+
+Looping corridors (optional illusion area)
+
+Environmental FX: Dust particles, digital flicker, red fog
+
+PLAYER INTERACTION & FEEDBACK
+Nova’s glow dims near corrupted zones
+
+Movement becomes sluggish or flickery if red crystals are touched
+
+Signal cores must be “stabilized” (e.g., collected and held for 2–3 seconds)
+
+Interference effects increase as Nova nears the signal source
+
+OBJECTIVE & GAMEPLAY
+Goal: Collect and stabilize all signal cores in the cave
+
+Hazards:
+
+Red crystals (temporary debuffs)
+
+Collapsing tiles
+
+Static zones (reverse controls / flickering vision)
+
+Puzzle Mechanics:
+
+Navigating narrow winding paths
+
+Timed platform areas
+
+Simple memory-based sequence (optional)
+
+ROOM FLOW & LAYOUT
+
+[Signal Core A] → [Trap Field] → [Signal Core B]
+      ↓                   ↑
+[Red Crystals]     [Collapse Zone]
+      ↓                   ↑
+   [Start Area] →→→→ [Signal Core C]
+                        ↓
+                  [Exit Gate]
+The map structure encourages careful navigation and timed execution
+
+Each core unlocks part of the exit gate
+
+SOUND & AMBIENCE
+Ambient Sound: Echoing vibrations, static pulses
+
+FX:
+
+Crystal touch = glitch sound
+
+Signal core stabilization = harmonic pulse + screen flash
+
+Music: Minimal, dark synth with rhythmic pulses that grow more intense with each core collected
+
+MISSION ENDING
+As Nova stabilizes the final signal core, the ground shakes.
+The signal clears briefly.
+A distorted log plays:
+
+“Subject S-09... unstable... signal compromised... terminate...”
+
+A hidden tunnel opens beneath him, pulling him downward.
+Mission 3 unlocked.

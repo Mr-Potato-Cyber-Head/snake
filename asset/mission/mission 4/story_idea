@@ -1,0 +1,102 @@
+Mission 4 – Core Breach
+Design & Environment Notes
+
+STORY OVERVIEW
+The trail leads Nova deep into the planet’s internal core system—an artificial power facility buried beneath layers of molten infrastructure. This is no natural cave—it’s a forgotten engine. Massive turbines and data conduits still pulse faintly with energy.
+
+But something’s wrong. The core is destabilizing.
+
+Corrupted heat signatures, volatile plasma leaks, and fragments of foreign code swirl through the environment. It’s not just collapsing—it’s trying to wipe everything, including Nova.
+
+The final pieces of memory are near, but time is running out.
+Nova must reroute energy from failing core lines before the facility implodes.
+
+ENVIRONMENT SETTING
+Location: Collapsing artificial energy core buried beneath Xyra-9
+
+Mood: Urgent, high-stakes, unstable
+
+Theme Colours: Fiery orange, molten red, electric blue (energy lines), dark steel
+
+Lighting: Flickering lights, glowing lava, red alert flashes
+
+Sound: Deep mechanical rumble, venting pressure, glitch pulses, emergency alarms
+
+VISUAL ELEMENTS
+Background walls: Reinforced alloy plating, cracked panels, glowing data streams
+
+Floor: Metallic tiles, some melted or fractured; active and broken power lines
+
+Lava hazards: Flowing molten paths (animated); instant death zones
+
+Flickering light panels: Random blinking lights and warning symbols
+
+Plasma Leaks (hazards): Spraying arcs of energy from broken conduits
+
+Power Switches (Objectives): Console terminals Nova must reach to stabilize core
+
+PLAYER INTERACTION & FEEDBACK
+Nova flickers rapidly near high-energy zones
+
+Light intensity pulses with system instability
+
+Subtle camera shake to simulate structural failure
+
+Bright red UI indicator for rising heat level or time left
+
+OBJECTIVE & GAMEPLAY
+Goal: Reach and activate all core reroute terminals before time runs out
+
+Mechanics:
+
+Timed level with countdown
+
+Navigating lava corridors
+
+Avoiding random plasma bursts
+
+Hazards:
+
+Collapsing walkways
+
+Flash-fire zones (temporarily dangerous)
+
+Glitch traps (temporary loss of control)
+
+ROOM FLOW & LAYOUT
+Central core room contains the main gate
+
+Three secondary branches with a reroute terminal each
+
+Completion of all terminals unlocks the main archive door
+
+   [Core Terminal A]     [Core Terminal C]
+            │                 │
+        Lava corridors     Plasma burst traps
+            ▼                 ▼
+        [Core Terminal B]──[Central Core Gate]
+                     │
+              [Final Archive Room]
+SOUND & AMBIENCE
+Ambience: Alarms, echoing turbine rotations, creaking metal
+
+Hazard SFX:
+
+Lava: bubbling hiss
+
+Plasma: crackling electric whine
+
+Countdown: rhythmic beeps intensifying as time shortens
+
+Music: High-tempo, pulsing synth with emergency tone underlayers
+
+MISSION ENDING
+As Nova activates the final terminal, the core begins to stabilize—barely.
+
+A section of the wall slides open, revealing a cryo-pod… empty. A message is etched into the glass:
+
+"S-09: Disconnected."
+
+Suddenly, the light cuts out.
+
+End of Chapter 1.

@@ -1,0 +1,85 @@
+Mission 1 – The Awakening
+Design & Environment Notes
+
+STORY OVERVIEW
+Zeta Galaxy.
+Planet Xyra-9.
+A lifeless surface... until something awakens.
+
+A green, glowing snake—Nova—emerges from stasis beneath crimson cliffs and scattered crystals. He remembers nothing. Only a soft voice in his head:
+
+“Wake up... You are the last survivor.”
+
+The land is unstable. Some crystals pulse with energy, others shimmer ominously in red. Nova must gather energy to stabilize his form before the rising radiation consumes the surface.
+
+ENVIRONMENT SETTING
+Location: Surface of Xyra-9, dusty and scattered with alien crystals
+
+Mood: Mysterious, lonely, slightly hopeful
+
+Theme Colours: Warm oranges, faded reds, glowing green highlights
+
+Lighting: Daylight with crystal-based glows
+
+Sound: Ambient wind, low crystal hums, subtle melodic echoes
+
+VISUAL ELEMENTS
+Terrain: Alien desert with jagged cliffs and glowing crystal patches
+
+Green Crystals (objective): Collect to power up Nova
+
+Red Crystals (hazard): Temporarily weaken or slow Nova
+
+Obstacles: Static rocks and terrain formations (simple maze layout)
+
+Start & End Point: Nova awakens in center → must gather power to open an exit zone
+
+PLAYER INTERACTION & FEEDBACK
+Nova starts weak; speed and glow increase with each green crystal
+
+Touching red crystals dims Nova’s light and slows him briefly
+
+Optional glow effect intensifies as progress is made
+
+At the end, Nova pulses brightly for the first time = mission success
+
+OBJECTIVE & GAMEPLAY
+Goal: Collect all green crystals before oxygen runs out
+
+Hazards:
+
+Red crystals (slowdown)
+
+Time limit (oxygen depletes gradually)
+
+Mechanics: Simple introductory level to teach movement, danger vs. reward
+
+ROOM FLOW & LAYOUT
+
+  [Green Crystal]──┐       [Red Crystal]
+        │          │             │
+   [Obstacle]   [Green]       [Exit Pad]
+        │
+   [Start Zone - Nova Awakens]
+SOUND & AMBIENCE
+Background: Soft ambient wind, alien whistles
+
+Crystals:
+
+Green = bright harmonic ping
+
+Red = low glitch pulse
+
+Music: Calm, pulsing, mysterious—builds as player collects more crystals
+
+MISSION ENDING
+After collecting the last green crystal, Nova begins to glow fully.
+The surface starts shaking.
+A flickering pulse reveals a crack in the canyon floor.
+
+A voice again:
+
+“Go deeper.”
+
+Fade to black.
+Mission 2 unlocked.

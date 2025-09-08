@@ -1,0 +1,102 @@
+Mission 3 – Echoes of the Deep
+Design & Environment Notes
+
+STORY OVERVIEW
+Nova follows a set of coordinates hidden in the signal decoded from the underground caverns. They lead to a flooded trench on the shadow side of Xyra-9—an area long forgotten and submerged in electrically charged liquid.
+The terrain is unstable, covered in glowing currents and veiled in fog. Movement is heavier, the silence is deeper.
+Ancient conduits pulse beneath the surface. Nova must reactivate them to unlock a deeper layer of the message—and face memories that were meant to be erased.
+
+ENVIRONMENT SETTING
+Location: Submerged alien trench zone
+
+Mood: Mysterious, slow, tense
+
+Theme Colours: Deep blue, electric teal, dim purple, cyan accents
+
+Lighting: Low ambient light with flickering reflections and glowing effects
+
+Sound: Echoes, water hums, deep electrical pulses, muffled movement
+
+VISUAL ELEMENTS
+Background walls: Ruined alien structures with moss, glyphs, and embedded cables
+
+Floor: Mixture of dry alien stone and glowing liquid tiles (some stable, some not)
+
+Conduits (Mission Objective): Tall glowing towers or pillars that activate on contact
+
+Hazards:
+
+Collapsing floating tiles
+
+Electrified currents that push the player
+
+Fog zones that reduce visibility
+
+Visual FX:
+
+Water ripple shaders
+
+Glowing fog layers
+
+Particle streams (data/sparks)
+
+PLAYER INTERACTION & FEEDBACK
+Snake glows soft green, but light diffuses in fog/water
+
+Glitch effects appear briefly near corrupted energy fields
+
+Movement slightly slower in liquid areas
+
+Fog and water distort audio (optional filter or volume dip)
+
+OBJECTIVE & GAMEPLAY
+Goal: Activate all conduits to unlock the central archive gate
+
+Puzzle Elements:
+
+Order-based activation
+
+Navigating invisible paths through fog
+
+Hazards:
+
+Collapsing tiles
+
+Directional push currents
+
+Trap zones hidden under mist
+
+ROOM FLOW & LAYOUT
+Three distinct zones, each with unique hazard + conduit
+
+Central gate remains locked until all 3 are activated
+
+Optional branching paths contain lore fragments or visual hints
+
+
+             [Conduit A]
+                  │
+         ~ Fog Field with traps ~
+                  │
+        [Conduit B]──[Central Gate]──[Conduit C]
+             ↑         ↓        ↑
+    Floating tiles   Archive   Electric stream
+SOUND & AMBIENCE
+Ambient loop: Deep underwater synths, echo pulses
+
+Interaction SFX:
+
+Conduit activation: clean ascending tone + flash
+
+Trap activation: muffled electric buzz
+
+Fog: low white noise / static when entered
+
+Music: Slow, pulsing, rhythmic—builds as conduits are activated
+
+MISSION ENDING
+When all conduits are active, the central gate opens. Nova enters the submerged archive, and a distorted voice plays:
+
+“He was never supposed to remember.”
+
+Screen fades to black.

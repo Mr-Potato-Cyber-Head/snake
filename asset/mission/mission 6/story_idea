@@ -1,0 +1,116 @@
+Mission 6 – The Awakening Reversed
+Design & Environment Notes
+
+STORY OVERVIEW
+The simulation collapsed.
+The identity rebuilt.
+Nova—once S-09—has regained full memory.
+
+But something still lingers: a backdoor protocol, hidden even deeper than memory. A system within a system. A final failsafe.
+
+Nova finds himself transported to a mirror version of Xyra-9.
+Not physical. Not digital. Something in-between.
+A reversal of all that came before.
+
+Everything is inverted:
+
+Time moves forward, then rewinds.
+
+The environment shifts between past and future versions.
+
+Nova’s every move echoes a version of himself trying to stop him.
+
+To escape this recursive collapse, Nova must face his own recorded patterns and finally shut down the S-09 protocol for good.
+
+ENVIRONMENT SETTING
+Location: An abstract, mirrored construct of Xyra-9
+
+Mood: Climactic, surreal, tense
+
+Theme Colours: High contrast—white, black, neon green, inverted glows
+
+Lighting: Pulsing flashes, reversed shadows, mirrored reflections
+
+Sound: Time-warped ambiance, heartbeat-like pulses, reversed melodies
+
+VISUAL ELEMENTS
+Fractured Terrain: Floating tiles, broken reflections of earlier levels
+
+Mirror Zones: The player’s ghost-movement from earlier sessions replays as an obstacle
+
+Data Phantoms: Glitched-out versions of Nova that move on pre-set paths, can damage or block him
+
+Time Loop Cracks: Shattered zones that flicker between two versions of the same room
+
+The Core Heart (final area): A pulsing geometric construct at the center of the map
+
+PLAYER INTERACTION & FEEDBACK
+Nova’s glow constantly shifts between green and white
+
+At certain points, controls reverse or slow momentarily
+
+Player must observe enemy Nova ghosts and avoid overlapping paths
+
+A global light pulsing syncs with a “heartbeat” that changes as the mission nears completion
+
+OBJECTIVE & GAMEPLAY
+Goal: Reach the central Core Heart and purge the final S-09 protocol
+
+Mechanics:
+
+Avoid self-ghosts (recorded movement from prior attempts / patterns)
+
+Navigate mirrored versions of past rooms
+
+Solve order-based memory puzzles tied to Mission 1–5 elements
+
+Hazards:
+
+Time cracks (jump player between locations)
+
+Light walls that become solid only when player moves
+
+Shadow phantoms that chase when you stop
+
+ROOM FLOW & LAYOUT
+The level is split into three mirrored memory paths, each representing Nova’s earlier missions—but backwards.
+
+The final core heart chamber is locked behind a pattern match puzzle.
+
+      [Reverse Cavern] ◀── [Ghost Corridor] ──▶ [Reverse Core]
+             │                          ▲
+         [Reverse Ocean]         [Reverse Canyon]
+             │                          ▼
+            ──────────────▶ [Core Heart Chamber]
+SOUND & AMBIENCE
+Ambience:
+
+Deep heartbeat-like synths
+
+Reverse echoes of earlier mission soundtracks
+
+Whispers of S-09 logs fading in/out
+
+Effects:
+
+Ghost Nova = glitch trails + static hum
+
+Core Heart = escalating musical tone as player nears
+
+MISSION ENDING
+As Nova reaches the Core Heart, all sound cuts.
+He enters the chamber. A flickering silhouette awaits—his last remaining memory shell.
+
+No words.
+Just a reflection.
+
+The screen fades to white.
+
+Text appears:
+
+“Protocol S-09 terminated.”
+“Nova: Alive.”
+
+Fade to black.
+Main menu glitches.
+“Campaign Complete” flashes softly.

@@ -1,0 +1,114 @@
+Mission 5 – Memory Loop
+Design & Environment Notes
+
+STORY OVERVIEW
+The cryo-pod was empty. The name was real. Nova was S-09.
+But what does that mean?
+
+He awakens—again.
+Only this time, the terrain is... identical to where it all began.
+
+The same crystals. The same cliffs. But something is off.
+
+The colours are inverted. The layout loops.
+Voices from earlier missions echo in reverse. The screen flickers. Nova is caught in a corrupted memory simulation, looping fragments of past environments in a fragmented, unstable space.
+
+To escape the simulation, Nova must break the loops, restore corrupted memory blocks, and regain full control of his identity.
+
+ENVIRONMENT SETTING
+Location: Corrupted virtual memory space
+
+Mood: Unsettling, confusing, glitchy
+
+Theme Colours: Inverted versions of previous levels (e.g., blue sand, red fog)
+
+Lighting: Flickering light overlays, static lines, VHS glitch effect
+
+Sound: Reversed audio clips, low drone hums, digital distortion
+
+VISUAL ELEMENTS
+Memory Rooms: Fragments of previous levels (jungle, cave, core) stitched together unnaturally
+
+Glitch Tiles: Visibly corrupted floor tiles that randomly teleport the player or reset their position
+
+Memory Blocks (Objectives): Floating cubes/pixels that must be collected and restored
+
+Loop Zones: Sections that repeat endlessly until specific actions are taken
+
+Mirror Crystals: Crystals that reflect the player’s movement but distort the direction
+
+Error Screens: Occasionally flash white/red with distorted faces or code
+
+PLAYER INTERACTION & FEEDBACK
+Nova flickers randomly
+
+Movement occasionally becomes mirrored or delayed in loop zones
+
+Memory blocks must be “held” for a few seconds before stabilizing
+
+Escaping a loop creates a visible data explosion / light burst
+
+OBJECTIVE & GAMEPLAY
+Goal: Break all memory loops and restore three core memory blocks
+
+Puzzle Mechanics:
+
+Navigating intentionally repeating areas
+
+Matching corrupted symbols to doors
+
+Holding still in certain spots to trigger memory reveals
+
+Hazards:
+
+Loop traps (e.g., stairs that lead nowhere)
+
+Mirror movement zones
+
+Glitch spikes (appear/disappear at intervals)
+
+ROOM FLOW & LAYOUT
+Three major memory zones based on prior missions (1, 2, 4)
+
+Each contains a loop challenge and a memory block
+
+Completing all three unlocks the final gate
+
+        [Loop: Crystal Canyon] → [Memory Block A]
+                 │
+      [Loop: Cavern Echo] → [Memory Block B]
+                 │
+      [Loop: Core Fragment] → [Memory Block C]
+                 │
+          ───▶ [Stabilization Gate]
+SOUND & AMBIENCE
+Ambient Sounds:
+
+Reversed music
+
+Echoes of past voice lines (backward or slowed)
+
+Low glitched pulse
+
+FX:
+
+Glitch sounds on flicker
+
+Memory block pickup = rising harmonic tone
+
+Completing loop = soft system chime
+
+MISSION ENDING
+Nova collects the last memory block.
+The world begins to stabilize—but instead of restoring, it starts to delete.
+
+A console appears. One line blinks:
+
+"Override accepted. Identity reconstruction: complete."
+
+Nova’s green glow fades.
+A brighter, whiter version reappears.
+Eyes open.
+
+Nova is no longer running.
+He’s returning.
